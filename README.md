@@ -1,1 +1,3 @@
-Run: `ruby duby-doo`
+```shell
+$ ruby duby-doo
+```
