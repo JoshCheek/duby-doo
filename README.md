@@ -1,3 +1,3 @@
-```shell
+```bash
 $ ruby duby-doo
 ```
